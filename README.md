@@ -1,10 +1,17 @@
-<h1>Hi, I'm Devon! </h1>
+<h1>Hi, I'm Devon Dennis </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>This is my playground for all to see. Thank you for coming</h2>
+
+<h2> I am currently learning Cybersecurity, Python, Linux, Networking and Cloud</h2>
 
   - [Acive Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>Certifications</h2>
+Targets
+Google Cybersecurity Professironal
+Comptia Security+
+CompTIA Network+
+
 -[Google Foundation of Cybrsecurity](https://coursera.org/share/d72d3f1fece0d021ea8b1e02b99fc0b9)
 
 <h2> 🤳 Connect with me:</h2>
